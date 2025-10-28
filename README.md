@@ -2,9 +2,9 @@
 
 Dự án đếm người vào/ra thời gian thực sử dụng mô hình học sâu MobileNet SSD với khả năng theo dõi và phân tích chuyển động.
 
-## 📹 Video Demo
+## 📹 Demo
 
-Video output mẫu có trong file `output.mp4` trong thư mục gốc của dự án.
+![Demo](assets/output.gif)
 
 ## 🎯 Tính năng chính
 
